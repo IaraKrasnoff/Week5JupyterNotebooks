@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "resultset": {
+            "offset": 1,
+            "count": 22,
+            "limit": 1000
+        }
+    },
+    "results": [
+        {
+            "date": "2018-01-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USW00013781",
+            "attributes": ",W",
+            "value": -0.35
+        },
+        {
+            "date": "2018-02-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USW00013781",
+            "attributes": ",W",
+            "value": 4.91
+        },
+        {
+            "date": "2018-03-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USC00079605",
+            "attributes": "1,Z",
+            "value": 3.11
+        },
+        {
+            "date": "2018-03-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USW00013781",
+            "attributes": ",W",
+            "value": 4.1
+        },
+        {
+            "date": "2018-04-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USC00079605",
+            "attributes": "1,Z",
+            "value": 9.12
+        },
+        {
+            "date": "2018-04-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USW00013781",
+            "attributes": ",W",
+            "value": 10.19
+        },
+        {
+            "date": "2018-05-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USC00079605",
+            "attributes": "2,Z",
+            "value": 18.4
+        },
+        {
+            "date": "2018-05-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USW00013781",
+            "attributes": ",W",
+            "value": 19.69
+        },
+        {
+            "date": "2018-06-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USC00079605",
+            "attributes": "1,Z",
+            "value": 21.46
+        },
+        {
+            "date": "2018-06-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USW00013781",
+            "attributes": ",W",
+            "value": 22.36
+        },
+        {
+            "date": "2018-07-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USC00079605",
+            "attributes": "1,7",
+            "value": 24.34
+        },
+        {
+            "date": "2018-07-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USW00013781",
+            "attributes": ",W",
+            "value": 25.39
+        },
+        {
+            "date": "2018-08-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USC00079605",
+            "attributes": "1,7",
+            "value": 24.53
+        },
+        {
+            "date": "2018-08-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USW00013781",
+            "attributes": ",W",
+            "value": 25.68
+        },
+        {
+            "date": "2018-09-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USC00079605",
+            "attributes": ",7",
+            "value": 21.11
+        },
+        {
+            "date": "2018-09-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USW00013781",
+            "attributes": ",W",
+            "value": 22.38
+        },
+        {
+            "date": "2018-10-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USC00079605",
+            "attributes": ",7",
+            "value": 13.68
+        },
+        {
+            "date": "2018-10-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USW00013781",
+            "attributes": ",W",
+            "value": 14.74
+        },
+        {
+            "date": "2018-11-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USC00079605",
+            "attributes": ",7",
+            "value": 4.94
+        },
+        {
+            "date": "2018-11-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USW00013781",
+            "attributes": ",W",
+            "value": 6.16
+        },
+        {
+            "date": "2018-12-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USC00079605",
+            "attributes": ",7",
+            "value": 3.15
+        },
+        {
+            "date": "2018-12-01T00:00:00",
+            "datatype": "TAVG",
+            "station": "GHCND:USW00013781",
+            "attributes": ",W",
+            "value": 4.14
+        }
+    ]
+}
